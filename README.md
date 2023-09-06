@@ -1,1 +1,2 @@
 # Persian_OCR
+Optical Character Recognition (OCR) is a system of converting images, including text,into editable text and is applied to various languages such as English, Arabic, and Persian. While these languages have similarities, their fundamental differences can create unique challenges. In Persian, continuity between Characters, the existence of semicircles, dots, oblique, and left-to-right characters such as English words in the context are some of the most important challenges in designing Persian OCR systems.
